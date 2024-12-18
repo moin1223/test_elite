@@ -1,0 +1,51 @@
+:root {
+    --primary-color: #000080;
+    --secondary-color: #DAA520;
+    --primary-bg: hwb(240 94% 2%);
+    --text-grey: #8390A2;
+    --text-white: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: #00743c;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.login-form {
+    background: var(--text-white);
+    padding: 40px;
+    margin-top: 5%;
+
+}
+
+.login-form a {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+.button {
+    background: var(--primary-color);
+    color: var(--text-white);
+}
+.button {
+    background: var(--primary-color);
+    color: var(--text-white);
+    border-radius: 5px;
+    border: none;
+    padding: 8px 30px;
+}
+@media screen and (max-width: 800px) {
+
+    .login-form{
+        margin-top: 25%;
+    }
+
+}

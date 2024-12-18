@@ -1,0 +1,43 @@
+.action_danger_btn {
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    background: 0 0;
+    line-height: 30px;
+    text-align: center;
+    color: #ff0000;
+    font-size: 12px;
+    transition: .3s;
+    display: inline-block;
+    flex: 32px 0 0
+}
+
+.action_danger_btn:hover {
+    background: #bf1515;
+    color: #fff;
+    box-shadow: 0 5px 10px rgba(136, 79, 251, .26)
+}
+
+.modal-backdrop {
+    position: relative !important;
+}
+
+.modal-backdrop {
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Set the desired opacity */
+}
+.list-group-item {
+    color: black;
+    cursor: pointer;
+}
+
+.list-group-item-active {
+    background-color: #9460fb;
+    color: #FFFFFF;
+}
+
+
+.list-group-item:hover {
+    background-color: #9460fb;
+    color: #FFFFFF;
+}

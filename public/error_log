@@ -1,0 +1,9 @@
+[09-Oct-2023 19:19:58 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ivlggife/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php on line 146
+[09-Oct-2023 19:20:33 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16777248 bytes) in /home/ivlggife/public_html/vendor/maennchen/zipstream-php/src/File.php on line 332
+[29-Nov-2023 14:04:42 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ivlggife/public_html/app/Http/Controllers/ProductCodeController.php on line 37
+[29-Nov-2023 14:05:40 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ivlggife/public_html/app/Http/Controllers/ProductCodeController.php on line 37
+[29-Nov-2023 14:06:30 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ivlggife/public_html/app/Http/Controllers/ProductCodeController.php on line 37
+[29-Nov-2023 14:07:20 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ivlggife/public_html/app/Http/Controllers/ProductCodeController.php on line 37
+[29-Nov-2023 14:08:28 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ivlggife/public_html/app/Http/Controllers/ProductCodeController.php on line 37
+[29-Nov-2023 14:15:30 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ivlggife/public_html/app/Http/Controllers/ProductCodeController.php on line 37
+[16-Jul-2024 21:21:22 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 4096 bytes) in /home/ivlggife/public_html/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php on line 1400

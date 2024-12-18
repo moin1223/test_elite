@@ -1,0 +1,28 @@
+[06-Oct-2023 11:58:05 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ivlggife/public_html/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ivlggife/public_html/database/seeders/DatabaseSeeder.php on line 8
+[06-Oct-2023 11:58:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ivlggife/public_html/database/seeders/DistrictSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ivlggife/public_html/database/seeders/DistrictSeeder.php on line 8
+[06-Oct-2023 11:58:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ivlggife/public_html/database/seeders/DivisionSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ivlggife/public_html/database/seeders/DivisionSeeder.php on line 8
+[06-Oct-2023 11:58:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ivlggife/public_html/database/seeders/ProductCodeSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ivlggife/public_html/database/seeders/ProductCodeSeeder.php on line 9
+[06-Oct-2023 11:58:14 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ivlggife/public_html/database/seeders/RoleSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ivlggife/public_html/database/seeders/RoleSeeder.php on line 9
+[06-Oct-2023 11:58:15 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ivlggife/public_html/database/seeders/ThanaSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ivlggife/public_html/database/seeders/ThanaSeeder.php on line 8
+[06-Oct-2023 11:58:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ivlggife/public_html/database/seeders/UserSeeder.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ivlggife/public_html/database/seeders/UserSeeder.php on line 11

@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+.navbar {
+    padding-bottom: 10px;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.ul-bg li {
+    border-bottom: 1px solid gainsboro;
+    padding-left: 10px;
+}
+
+/* logo */
+
+.logo {
+    width: 60px;
+}
+
+/* Banner SLider */
+
+
+.slider-img {
+    max-height: 400px;
+}
+
+.Banner {
+    position: relative;
+}
+
+.Search-details {
+    position: absolute;
+    top: 15px;
+    right: 7px;
+}
+
+.Search-field::placeholder {
+    color: black;
+}
+
+/* footer  */
+
+.footer-bg {
+    background-color: #212a2f;
+}
+
+.footer-bg input {
+    background-color: rgb(77, 85, 89);
+    ;
+}
+
+
+/* health prodcuts scroll  */
+
+.wrapper {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding: 5px;
+    padding-bottom: 50px;
+ 
+
+}
+
+.wrapper::-webkit-scrollbar {
+    width: 0;
+}
+
+.wrapper .item {
+    box-shadow: 5px 10px 10px gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    /*overflow-y: hidden;*/
+    
+}
+
+.nav-wrapper {
+    display: flex;
+    gap: 10px;
+    overflow-x: scroll;
+    font-size: 10px;
+
+}
+
+.nav-wrapper::-webkit-scrollbar {
+    width: 0;
+}
+
+.nav-wrapper.item {
+
+    border-bottom: 1px solid gainsboro;
+}
+
+.nav-bg {
+    background-color: ghostwhite;
+}
+
+
+/* sign up button dropdown  */
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    border: none;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.drodown-item {
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    background-color: #f1f1f1;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.drodown-item a {
+    color: black;
+    padding: 10px 8px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.drodown-item a:hover {
+    background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+/* .dropdown:hover .drodown-item  {
+    display: block;
+} */
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+.dropbtn-bg{
+    background-color: black !important;
+}
